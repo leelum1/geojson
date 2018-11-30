@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "WQMS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Tumpuna Weir", "Code": "TQ05" }, "geometry": { "type": "Point", "coordinates": [ -61.264833478990496, 10.557565728125979 ] } },
+{ "type": "Feature", "properties": { "Name": "El Carmen", "Code": "TQ07" }, "geometry": { "type": "Point", "coordinates": [ -61.306777592332494, 10.580869759822971 ] } },
+{ "type": "Feature", "properties": { "Name": "Caroni WTP", "Code": "TQ04" }, "geometry": { "type": "Point", "coordinates": [ -61.344461966712885, 10.586105657022932 ] } },
+{ "type": "Feature", "properties": { "Name": "El Mamo", "Code": "TQ02" }, "geometry": { "type": "Point", "coordinates": [ -61.22826670009794, 10.61036659181447 ] } },
+{ "type": "Feature", "properties": { "Name": "Cumuto", "Code": "TQ01" }, "geometry": { "type": "Point", "coordinates": [ -61.226940707592959, 10.585784392444413 ] } },
+{ "type": "Feature", "properties": { "Name": "Aripo", "Code": "TQ03" }, "geometry": { "type": "Point", "coordinates": [ -61.211614447067717, 10.602405172725719 ] } },
+{ "type": "Feature", "properties": { "Name": "Caroni Tumpuna", "Code": "TQ08" }, "geometry": { "type": "Point", "coordinates": [ -61.271050120578728, 10.582326724427812 ] } },
+{ "type": "Feature", "properties": { "Name": "Mausica", "Code": "TQ06" }, "geometry": { "type": "Point", "coordinates": [ -61.315266794947171, 10.587935427138335 ] } }
+]
+}
